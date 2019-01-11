@@ -4,9 +4,17 @@ import React, {
 
 import { Button, Icon, Layout, Row, Col } from 'antd'
 
+
+
+//@TODO it should be an updated we don't need to import three buttons, just because we pass a different layout to exporter
+
+
 import { GeneratePDFButton } from '../GroceryListToPDF'
 import { GeneratePDFButton2 } from '../GroceryListToPDF'
 import { GeneratePDFButton3 } from '../GroceryListToPDF'
+
+
+
 
 import RenderContent from './RenderContent';
 const { Footer } = Layout;

@@ -18,6 +18,17 @@ import { Button, Icon, Layout, Row, Col, Table } from 'antd'
 
 const { Header, Footer, Content } = Layout;
 
+
+// @TODO update this component by moving out styles.
+// example
+// const cssHeader = {
+//   // background: '#fff',
+//   // color:'red',
+//   //padding: 0
+//   fontSize: '20px'
+// }
+// <Header style={cssHeader} />
+
 class RecipeHeader extends Component {
   // shouldComponentUpdate(nextProps) {
   // if (this.props.title !== nextProps.title || this.props.toggle !== nextProps.toggle) {
@@ -37,8 +48,7 @@ class RecipeHeader extends Component {
     }}>
         <Row>
           <Col span={20}>
-
-                    "{this.props.title}" Template
+            "{this.props.title}" Template
           </Col>
           <Col span={4}>
 
