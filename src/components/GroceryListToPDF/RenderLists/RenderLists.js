@@ -2,7 +2,16 @@ import React from 'react';
 import PropTypes from 'prop-types';
 
 import { Text, View, StyleSheet } from '@react-pdf/renderer';
+
+
+
 import List, { Item } from '../List/List';
+
+
+
+
+
+
 
 
 
