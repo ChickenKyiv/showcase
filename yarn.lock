@@ -875,7 +875,7 @@
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
 
-"@groceristar/groceristar-fetch@^1.1.37", "@groceristar/groceristar-fetch@^1.1.47":
+"@groceristar/groceristar-fetch@^1.1.47":
   version "1.1.47"
   resolved "https://registry.yarnpkg.com/@groceristar/groceristar-fetch/-/groceristar-fetch-1.1.47.tgz#e9744f3ac34b15ed2ee26d7b37a4c6db511624ee"
   integrity sha512-56YDZGj8pqtFk4BMFQjzBh+yyE3Zpd7D6Wb1YH7Br5S1KT6p4d7B8sjmY9ncLP1GSo2Hm3bcsnAwPWovvHPzjw==
@@ -8340,10 +8340,10 @@ react-spring@^5.7.2:
   dependencies:
     "@babel/runtime" "^7.0.0"
 
-react-spring@^7.2.8:
-  version "7.2.8"
-  resolved "https://registry.yarnpkg.com/react-spring/-/react-spring-7.2.8.tgz#a1f49653393332bf84431a898993eda2f3212e42"
-  integrity sha512-wgK0eXjWR5yT12kAd0b6CXF73qcoisTJF7vt8qw/IZmeYcPm/GA3zGV5MQ8R2hicbVwc5oV6FGFPSbkAFJ6pdA==
+react-spring@^7.2.9:
+  version "7.2.9"
+  resolved "https://registry.yarnpkg.com/react-spring/-/react-spring-7.2.9.tgz#57b2b01e3bc4a34b48c18b34bca01a87e230b4a7"
+  integrity sha512-DKfhd9vxNUNaAnQJtHCeYwaYCzCuZD/Zd+dj+srMcr3PFwLElw3vUE38tmmV3cNg9zYzbcugjTFOnBZLeANziw==
   dependencies:
     "@babel/runtime" "^7.0.0"
 
