@@ -875,12 +875,12 @@
   version "1.4.0"
   resolved "https://registry.yarnpkg.com/@csstools/convert-colors/-/convert-colors-1.4.0.tgz#ad495dc41b12e75d588c6db8b9834f08fa131eb7"
 
-"@groceristar/groceristar-fetch@^1.1.58", "@groceristar/groceristar-fetch@^1.2.2":
-  version "1.2.3"
-  resolved "https://registry.yarnpkg.com/@groceristar/groceristar-fetch/-/groceristar-fetch-1.2.3.tgz#f34278fbd94ca3ba6a3e508466c6cb4827ec1b07"
-  integrity sha512-kHj0QhJwEs/03hCMXqPGPwJOqEXyJBlV8VskVzuRoVfsB976n3vqspnzguUntoZkpQT6owx0esY/3n2tt3N6XQ==
+"@groceristar/groceristar-fetch@^1.2.2", "@groceristar/groceristar-fetch@^1.2.9":
+  version "1.2.9"
+  resolved "https://registry.yarnpkg.com/@groceristar/groceristar-fetch/-/groceristar-fetch-1.2.9.tgz#e2774c6b0242ea94f330fe941dfaee4ede5fe99a"
+  integrity sha512-qwtmKFWHGGaFhq76S5qGxilXDSEKN7omJkWqt3MoQFdWJGBQMuessH+LYRnVQgDPuNKfdCmOHNlDh8uf4XwO1A==
   dependencies:
-    "@groceristar/sd-wrapper" "^1.0.5"
+    "@groceristar/sd-wrapper" "^1.0.11"
     dayjs "^1.8.0"
     fs "0.0.2"
     lodash "^4.17.10"
@@ -904,10 +904,10 @@
     antd "^3.13.2"
     uuid "^3.3.2"
 
-"@groceristar/sd-wrapper@^1.0.5":
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/@groceristar/sd-wrapper/-/sd-wrapper-1.0.5.tgz#d8361c2e8e77fd93cc09d79b3f8a00a131b9a66e"
-  integrity sha512-hlVKFUaEgc9+FwVAZqALYt9sTjU6K+9fzqiYIwC3I0gFRndAsEf9kb13ZBptSzEdY0KKptorSyJV/mFWiknkJg==
+"@groceristar/sd-wrapper@^1.0.11":
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/@groceristar/sd-wrapper/-/sd-wrapper-1.0.11.tgz#0dc830e44a70afcbae8ea5280dd3b7cadee967c6"
+  integrity sha512-lFYlZZHAT1Ws8VlXQEse1ufeVs1ZVgazua9afIll7+KT3J8LS344Wiz4WscNCY2MghJzFuB4VcoDNKM1k5PQpw==
   dependencies:
     fs "^0.0.1-security"
     path "^0.12.7"
