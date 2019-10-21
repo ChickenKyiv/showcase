@@ -10,7 +10,7 @@
     "@groceristar/grocery-component": "^1.0.8",
     "@groceristar/pdf-export": "^1.0.37",
     "@react-pdf/renderer": "^1.4.0",
-    "antd": "^3.14.0",
+    "antd": "^3.24.2",
     "lodash": "^4.17.11",
     "mauerwerk": "^2.0.2",
     "react": "^16.7.0",
