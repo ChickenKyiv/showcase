@@ -903,10 +903,10 @@
     underscore "^1.9.1"
     uuid "3.3.2"
 
-"@groceristar/grocery-component@^1.0.8":
-  version "1.0.8"
-  resolved "https://registry.yarnpkg.com/@groceristar/grocery-component/-/grocery-component-1.0.8.tgz#f04d0253371594fb24aa2f0c306e3a12e017510c"
-  integrity sha512-oDPHGQpRovofM2hNXkxvSlc8UTlLbBltKF4MohmXZp9jKBEDVwRlBz9t2+i/DH452jO8gJULk+k40yib5uPPxA==
+"@groceristar/grocery-component@^1.0.10":
+  version "1.0.10"
+  resolved "https://registry.yarnpkg.com/@groceristar/grocery-component/-/grocery-component-1.0.10.tgz#08474a4113d0acaab63f0dc57751d5b3d4130211"
+  integrity sha512-imtSRfDlmsvy1RiGZDrTYd73IYRK5+GMD3cfI38a2uIVl2dezNz5ZmwsFN0MT8VcQSj8QvamUpHNFDj9taqRSg==
   dependencies:
     uuid "^3.3.2"
 
